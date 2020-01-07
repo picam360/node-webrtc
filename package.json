@@ -23,7 +23,7 @@
     "module_path": "./build/{configuration}/",
     "remote_path": "./{module_name}/v{version}/{configuration}/",
     "package_name": "{platform}-{arch}.tar.gz",
-    "host": "https://raw.githubusercontent.com/picam360/node-webrtc-binary/master"
+    "host": "https://github.com/picam360/node-webrtc/raw/for_picam360_from_v0.4.3/prebuilt"
   },
   "engines": {
     "node": "^8.11.2 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0"
